@@ -1,7 +1,9 @@
+-SOLO PC-
+
 # Robux-Descuento-Regional
 Una simple calculadora para los descuentos de roblox en cada región.
 
-esto es demasiado simple, el botón izquierdo es para cambiar el color de la interfaz, y el botón de la derecha para cambiar el valor de los robux que se les va a calcular su descuento.
+esto es demasiado simple, el botón izquierdo es para cambiar el color de la interfaz, y el botón de la derecha para cambiar el valor de los robux que se les va a calcular su descuento y se mostrará a la derecha en un botón dorado.
 
 una barra deslizante te permite ver todas las regiones.
 
